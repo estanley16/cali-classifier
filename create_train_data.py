@@ -23,7 +23,7 @@ directory='/Users/emmastanley/Documents/Machine Learning/cali_classifier/data'
 #a list of categories for the classifier
 categories=['happy', 'sleepy', 'neutral']
             
-imgsize=50
+imgsize=100
 
 #check for images in folder
 for category in categories: 
